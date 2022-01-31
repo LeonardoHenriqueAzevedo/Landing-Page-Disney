@@ -90,6 +90,8 @@ h1 {
     margin-left: 32px;
 }
 
-img{
+img.disney-franchises{
     max-width: 600px;
+    position: absolute;
+    bottom: 25px;
 }
