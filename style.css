@@ -1,4 +1,13 @@
-* {
+*{
     margin: 0;
     padding: 0;
+}
+
+body{
+    background: url("./img/bg.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.logo {
+    max-width: 160;
 }
