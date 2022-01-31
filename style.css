@@ -22,6 +22,7 @@ img.logo {
 }
 
 .hero-content {
+    margin-top: -10px;
     padding-left: 80px;
 }
 
@@ -56,6 +57,10 @@ h1 {
     color: rgba(192, 192, 192, 0.8);
 }
 
+.prices p{
+    margin: 16px 0;
+}
+
 .prices:first-child {
     display: grid;
 }
@@ -63,6 +68,10 @@ h1 {
 .prices:first-child a{
     align-self: end;
 }
+
+/* .prices p:first-child {
+    margin: 0;
+} */
 
 .prices a {
     padding: 16.5px 14px;
