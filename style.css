@@ -29,6 +29,7 @@ body{
     color: rgba(192, 192, 192, 0.8);
     font-size: 12px;
     line-height: 18px;
+    margin-top: 16px;
 }
 
 h1 {
@@ -55,8 +56,16 @@ h1 {
     color: rgba(192, 192, 192, 0.8);
 }
 
+.prices:first-child {
+    display: grid;
+}
+
+.prices:first-child a{
+    align-self: end;
+}
+
 .prices a {
-    padding-left: 16.5px 14px;
+    padding: 16.5px 14px;
     background: #0063e5;
     display: block;
     border-radius: 4px;
@@ -66,6 +75,11 @@ h1 {
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 1px;
+    transition: 0.2s ease;
+}
+
+.prices a:hover{
+    background: #0483ee;
 }
 
 .prices a{
