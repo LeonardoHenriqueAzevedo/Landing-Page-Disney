@@ -29,8 +29,20 @@ h1 {
     font-size: 43px;
     line-height: 53px;
     color: #f9f9f9;
+    margin-bottom: 30px; 
 }
 
 .prices-container{
     display: flex;
+}
+
+.prices span{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #f9f9f9;
+}
+
+.prices{
+    color: rgba(192, 192, 192, 0.8);
 }
