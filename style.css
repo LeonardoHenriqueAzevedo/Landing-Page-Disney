@@ -69,9 +69,9 @@ h1 {
     align-self: end;
 }
 
-/* .prices p:first-child {
+.prices p:first-child {
     margin: 0;
-} */
+}
 
 .prices a {
     padding: 16.5px 14px;
