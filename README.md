@@ -1,2 +1,2 @@
 # Landing-Page-Disney
- Landing Page Disney+ Clone
+ Landing Page Disney+ Clone with HTML and CSS.
