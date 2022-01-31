@@ -32,6 +32,12 @@ body{
     position: absolute;
     top: 16px;
     right: 32px;
+    transition: .2s ease;
+}
+
+.btn:hover{
+    background: #f9f9f9;
+    color: rgba(0, 0, 0);
 }
 
 img.logo {
