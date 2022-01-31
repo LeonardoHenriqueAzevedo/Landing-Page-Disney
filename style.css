@@ -17,6 +17,15 @@ body{
     align-items: center;
 }
 
+.btn {
+    font-size: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    position: absolute;
+    top: 16px;
+    right: 32px;
+}
+
 img.logo {
     max-width: 160px;
 }
