@@ -56,14 +56,16 @@ h1 {
 }
 
 .prices a {
+    padding-left: 16.5px 14px;
     background: #0063e5;
     display: block;
     border-radius: 4px;
     text-align: center;
     color: #f9f9f9;
+    font-size: 18px;
     text-decoration: none;
     text-transform: uppercase;
-    
+    letter-spacing: 1px;
 }
 
 .prices a{
