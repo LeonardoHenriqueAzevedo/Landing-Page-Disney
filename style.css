@@ -44,5 +44,6 @@ h1 {
 }
 
 .prices{
+    max-width: 300px;
     color: rgba(192, 192, 192, 0.8);
 }
