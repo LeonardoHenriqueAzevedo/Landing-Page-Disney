@@ -5,3 +5,9 @@ A Disney+ landing page clone to improve my knowledge about front-end.
 <h1 align="center">
     <img alt="disney_clone" title="disney_interface" src="github/disney_clone.png">
 </h1>
+
+# 💻 Technologies
+## Front End
+- **HTML**
+- **CSS**
+- **JS**
